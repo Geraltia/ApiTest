@@ -48,3 +48,7 @@ Authorization: Bearer <ваш_токен>
 Скопируйте токен из ответа на запрос Регистрация.
 Перейдите к запросу Профиль и добавьте заголовок Authorization со значением Bearer <ваш_токен>.
 Отправьте запрос Профиль, чтобы увидеть данные пользователя.
+## Скриншоты из postman 
+![image](https://github.com/user-attachments/assets/894788fa-4fc1-4c32-9d6c-8a03346d983e)
+
+![image](https://github.com/user-attachments/assets/a8207186-a6d8-4267-9622-005826f91b70)

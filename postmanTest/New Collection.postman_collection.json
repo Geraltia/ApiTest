@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "8054f426-f61a-4c31-acfe-ffcfc104784f",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39684423"
+	},
+	"item": [
+		{
+			"name": "CreateUser",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "TakeUser",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
